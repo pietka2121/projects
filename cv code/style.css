@@ -1,0 +1,145 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+
+.cv {
+  justify-content: center;
+  width: 1200px;
+  height: 1050px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.top {
+  background: #124e52;
+  width: 1200px;
+  height: 214px;
+  left: 40px;
+  top: 40px;
+}
+
+.top-content {
+  padding-top: 16px;
+  padding-right: 259px;
+  padding-bottom: 25px;
+  padding-left: 23px;
+}
+
+h1 {
+  color: #f2f2f2;
+}
+
+.person-description {
+  color: #f2f2f2;
+}
+
+.job-title {
+  color: #3b9977;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.middle {
+  background: #1e2939;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  height: 99px;
+  left: 40px;
+  top: 254px;
+}
+
+.middle-contacts {
+  color: #f2f2f2;
+  display: flex;
+}
+
+.phone,
+.linkedin,
+.email {
+  color: #3b9977;
+  font-weight: 700;
+}
+
+.middle-contacts-links {
+  font-weight: 400;
+  color: #f2f2f2;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 22px;
+}
+
+.middle-contacts-links-email {
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+.bottom-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.bottom-header {
+  color: #1e2939;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+
+h3 {
+  color: #3b9977;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.project-link {
+  color: #1e2939;
+}
+
+.bottom-left {
+  margin-right: 55px;
+}
+
+.bottom-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.bottom-data {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.data-bold {
+  color: #000000;
+}
+
+.bottom-list {
+  color: #3b9977;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-item {
+  color: #000000;
+}
